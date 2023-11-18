@@ -8,4 +8,4 @@ Key Highlights:
 2. Create a data model using DAX functions for accurate analysis and reporting
 
 PBIX file Link:https://drive.google.com/file/d/1gq5Ddrffw3x2pgpz63gJGx4Cjwrb5NoA/view?usp=sharing
-PDF Link:https://drive.google.com/file/d/1gepGAg60hfJjnMPi_alPujPE-WWe75s-/view?usp=sharing
+PDF Link:https://drive.google.com/file/d/1PoyzywMcPSZUOiKjElM4pyl1ubFr423d/view?usp=sharing
