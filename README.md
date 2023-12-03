@@ -11,4 +11,4 @@ Key Highlights:
 
 PBIX file Link:https://drive.google.com/file/d/1gq5Ddrffw3x2pgpz63gJGx4Cjwrb5NoA/view?usp=sharing
 
-PDF Link:https://drive.google.com/file/d/1PoyzywMcPSZUOiKjElM4pyl1ubFr423d/view?usp=sharing
+PDF Link:https://drive.google.com/file/d/17GP-TtZSVQFO4h_xPIoRtIYdTngS_jiJ/view?usp=sharing
